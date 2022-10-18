@@ -1,0 +1,54 @@
+﻿  AnDS_RGR_3_part_8_var.cpp
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(42,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(608,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(161,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(159): message : во время компиляции функции-члена класс шаблон "Vertex *Graph<Vertex,_Edge>::AddVertex(void)"
+          with
+          [
+              Vertex=_Vertex
+          ]
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(217): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vertex *Graph<Vertex,_Edge>::AddVertex(void)"
+          with
+          [
+              Vertex=_Vertex
+          ]
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(21): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<_Vertex,_Edge>"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(152,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(152): message : во время компиляции функции-члена класс шаблон "int Graph<_Vertex,_Edge>::GetVertexesCount(void) const"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(317): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<_Vertex,_Edge>::GetVertexesCount(void) const"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(95,1): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(52): message : во время компиляции функции-члена класс шаблон "void Task1v6<_Vertex,_Edge>::Restart(void)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Task1v6<_Vertex,_Edge>::Restart(void)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(486): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Task1v6<_Vertex,_Edge>"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(477): message : во время компиляции функции-члена класс шаблон "int TaskCommands<Task1v6<_Vertex,_Edge>>::HandleInput(void)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(585): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TaskCommands<Task1v6<_Vertex,_Edge>>"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(246,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(238): message : во время компиляции функции-члена класс шаблон "bool Task1v6<_Vertex,_Edge>::ConnectWithChangingHeight(Vertex *,std::vector<int,std::allocator<int>> &)"
+          with
+          [
+              Vertex=_Vertex
+          ]
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(96): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Task1v6<_Vertex,_Edge>::ConnectWithChangingHeight(Vertex *,std::vector<int,std::allocator<int>> &)"
+          with
+          [
+              Vertex=_Vertex
+          ]
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(52): message : во время компиляции функции-члена класс шаблон "void Task1v6<_Vertex,_Edge>::Restart(void)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\PartOne.h(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Task1v6<_Vertex,_Edge>::Restart(void)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(453,47): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(444): message : во время компиляции функции-члена класс шаблон "void Graph<_Vertex,_Edge>::MatrixForm::FindNextEdge(Vertex *,Edge **) const"
+          with
+          [
+              Vertex=_Vertex,
+              Edge=_Edge
+          ]
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(380): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<_Vertex,_Edge>::MatrixForm"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(376): message : во время компиляции функции-члена класс шаблон "Graph<_Vertex,_Edge>::GraphForm *Graph<_Vertex,_Edge>::CreateForm(Graph<_Vertex,_Edge>::Form,bool)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(264): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<_Vertex,_Edge>::GraphForm *Graph<_Vertex,_Edge>::CreateForm(Graph<_Vertex,_Edge>::Form,bool)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\Graph.h(271): message : во время компиляции функции-члена класс шаблон "Graph<_Vertex,_Edge>::Graph(int,int,bool,Graph<_Vertex,_Edge>::Form)"
+C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var\AnDS_RGR_3_part_8_var.cpp(186): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<_Vertex,_Edge>::Graph(int,int,bool,Graph<_Vertex,_Edge>::Form)"
+  AnDS_RGR_3_part_8_var.vcxproj -> C:\Users\Dominator\source\repos\AnDS_RGR_3_part_8_var\x64\Debug\AnDS_RGR_3_part_8_var.exe
